@@ -1,4 +1,4 @@
-# This repository contains the necessary codes for tasks given by Learn Flow during my Business Analysis Internship in June 2024
+# This repository contains the necessary documents for tasks given by Learn Flow during my Business Analysis Internship in June 2024
 
 TASK 1 - Dashboard for Key Performance Indicators (KPIs)
 
